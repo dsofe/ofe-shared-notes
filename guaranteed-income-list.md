@@ -6,8 +6,12 @@
 
 <br>
 
-#### [The Bridge Project (TBP)](https://bridgeproject.org/?utm_source=Sailthru&utm_medium=email&utm_campaign=Future%20Perfect%204-26-22&utm_term=Future%20Perfect)
+#### [The Bridge Project (TBP)](https://bridgeproject.org/?utm_source=Sailthru&utm_medium=email&utm_campaign=Future%20Perfect%204-26-22&utm_term=Future%20Perfect), *NYC*
 
+> https://www.penncgir.org/research  
+> 
+> The Bridge Project is New York City’s first guaranteed income program. Launched by the Monarch Foundation, the Bridge Project is designed to support low-income mothers in New York City during the first 1,000 days of their children’s lives by providing them with consistent, unconditional cash on a biweekly basis for three years. CGIR is executing a Randomized Controlled Trial (RCT) to determine the impacts of guaranteed income on maternal, child development, and health variables. The trial enrolls 100 female-identifying individuals who are either pregnant or have a baby less than the age of one. Those individuals receive either USD 500 or USD 1,000 unconditional cash-transfers each month in disbursements of USD 250 or USD 500, respectively, every other week. An additional 100 participants serve as the program’s control group. By having two treatment groups through which their participants receive different amounts of cash, the study aims at grasping the nuances between the distinct levels of assistance. Hence, indicating the recommended grade of guaranteed income that would provide recipients and their babies with the strongest financial, social, and developmental outcomes. Current participants reside in Washington Heights, Inwood, and Central Harlem. The program hopes to launch future phases throughout various neighborhoods and boroughs to support mothers and their babies and alleviate child poverty across New York City.  
+>
 > https://www.fastcompany.com/90715112/this-guaranteed-income-pilot-gives-low-income-new-york-mothers-1000-a-month  
 > "New York City’s first consistent and at-scale guaranteed income pilot program. Funded entirely with private money, the program targets low-income new or expecting mothers of color. Now in its seventh month, the program already has shown its ability to support mothers, and is about to expand—but, the organizers say any further extensions will need government support."  
 > 
@@ -21,7 +25,7 @@
 
 <br>
 
-#### [Creatives Rebuild New York](https://www.creativesrebuildny.org/)
+#### [Creatives Rebuild New York](https://www.creativesrebuildny.org/), *NY State*
 
 > https://money.com/guaranteed-income-program-new-york/  
 > 
