@@ -4,8 +4,13 @@
 - with the CFE Forum, i am not sure about people's schedule but i think it's a quick memo on basic info about any programs
 - timeframe is through next week
 
+<br>
+
 #### [The Bridge Project (TBP)](https://bridgeproject.org/?utm_source=Sailthru&utm_medium=email&utm_campaign=Future%20Perfect%204-26-22&utm_term=Future%20Perfect)
 
+> https://www.fastcompany.com/90715112/this-guaranteed-income-pilot-gives-low-income-new-york-mothers-1000-a-month  
+> "New York City’s first consistent and at-scale guaranteed income pilot program. Funded entirely with private money, the program targets low-income new or expecting mothers of color. Now in its seventh month, the program already has shown its ability to support mothers, and is about to expand—but, the organizers say any further extensions will need government support."  
+> 
 > https://www.vox.com/future-perfect/2022/4/28/23044957/ubi-guaranteed-income-baltimore-new-york-mississippi  
 > 
 > "Payments to an initial cohort of 100 low-income mothers began in July 2021, with plans to give them $500 or $1,000 per month for three years. So far, the cash has helped these moms better afford rent, child care, food, and diapers. This month, the program accepted applications for a new cohort of 500 mothers."
